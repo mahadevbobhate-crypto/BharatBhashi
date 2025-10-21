@@ -1,0 +1,5 @@
+{
+  "name": "BhashaBharti",
+  "description": "A real-time multilingual chat app designed for Indian language communication. Messages are automatically translated into the other user’s chosen language, enabling seamless conversation across linguistic barriers.",
+  "requestFramePermissions": []
+}
